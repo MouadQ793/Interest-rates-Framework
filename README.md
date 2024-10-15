@@ -16,5 +16,6 @@ With this project I aimed to personally develop my knowledge of these short term
 By the end of this project, I will have a solid understanding of how these models work, how to apply them and  why they are so critical for anyone working in finance especially in the world of quanitative finance. 
 
 
+You can find here linked all the books, projects, and studies that were consulted in the making of this project :
 
 
