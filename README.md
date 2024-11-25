@@ -1,4 +1,4 @@
-# Short-term Interest model rates and Market models
+# Short-term Interest model rates and Market models Framework 
 
 **Author : Mouad Sehli**  
 *Email : mouad.sehli@gmail.com*   
