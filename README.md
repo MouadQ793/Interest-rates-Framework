@@ -19,4 +19,10 @@ By the end of this project, I will have a solid understanding of how these model
 
 You can find here linked all the books, projects, and studies that were consulted in the making of this project :
 
+https://www.math.cmu.edu/~gautam/sj/teaching/2016-17/944-scalc-finance1/pdfs/ch4-rnm.pdf  
+
+https://www.sciencedirect.com/science/article/pii/S0927539822001086
+
+https://www.amazon.com/Interest-Rate-Models-Practice-Inflation/dp/3662517434
+
 
