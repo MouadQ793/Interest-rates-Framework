@@ -1,4 +1,4 @@
-# Short-term Interest model rates and their applications 
+# Short-term Interest model rates and Market models
 
 **Author : Mouad Sehli**  
 *Email : mouad.sehli@gmail.com*   
