@@ -9,11 +9,6 @@ In finance, different, fairly complex mathematical models are used to understand
 
 With this project I aimed to personally develop my knowledge of these short term interest models and how to implement them in python.
 
-- **<a href="./Short_rates.ipynb" target="_blank">Short Rates Model</a>** : These models focus on the short-term rates, basically what is one expected to pay if they borrowed money for an incredibly short period. We'll look at some of the more well-known models like the Vasicek and CIR models. These models are popular because they are easy to work with and give good results for bond pricing.
-We will then try to implement the hull white model which is easier to calibrate to market data but harder to implement.
-
-- **<a href="./Market_Models.ipynb" target="_blank">Market Models</a>** : Unlike short-rate models, these deal with forward rates, which are predictions of what interest rates will be in the future. The LIBOR (London Interbank Offer Rate ) market model (LMM) is a big deal in this field, especially when it comes to pricing caps and swaptions.
-
 By the end of this project, I will have a solid understanding of how these models work, how to apply them and  why they are so critical for anyone working in finance especially in the world of quanitative finance. 
 
 
